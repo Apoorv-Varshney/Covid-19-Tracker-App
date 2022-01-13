@@ -9,7 +9,7 @@ import android.os.Bundle;
 import android.view.MenuItem;
 import android.view.View;
 
-import com.codewithshubh.covid19Tracker.R;
+import com.apoorv.covid19Tracker.R;
 
 public class AboutActivity extends AppCompatActivity
 {

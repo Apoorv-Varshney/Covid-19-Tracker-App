@@ -7,7 +7,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
 
-import com.codewithshubh.covid19Tracker.R;
+import com.apoorv.covid19Tracker.R;
 
 public class SplashActivity extends AppCompatActivity {
 

@@ -28,7 +28,7 @@ import static com.apoorv.covid19Tracker.Constants.STATE_RECOVERED;
 import static com.apoorv.covid19Tracker.Constants.STATE_RECOVERED_NEW;
 
 
-import com.codewithshubh.covid19Tracker.R;
+import com.apoorv.covid19Tracker.R;
 
 public class EachStateDataActivity extends AppCompatActivity {
     private TextView tv_confirmed, tv_confirmed_new, tv_active, tv_active_new, tv_death, tv_death_new,

@@ -22,7 +22,7 @@ import com.android.volley.toolbox.Volley;
 import com.apoorv.covid19Tracker.Adapters.CountryWiseAdapter;
 import com.apoorv.covid19Tracker.MainActivity;
 import com.apoorv.covid19Tracker.Models.CountryWiseModel;
-import com.codewithshubh.covid19Tracker.R;
+import com.apoorv.covid19Tracker.R;
 
 import org.json.JSONArray;
 import org.json.JSONException;

@@ -22,7 +22,7 @@ import com.bumptech.glide.Glide;
 import com.bumptech.glide.load.engine.DiskCacheStrategy;
 import com.apoorv.covid19Tracker.EachCountryDataActivity;
 import com.apoorv.covid19Tracker.Models.CountryWiseModel;
-import com.codewithshubh.covid19Tracker.R;
+import com.apoorv.covid19Tracker.R;
 
 import java.text.NumberFormat;
 import java.util.ArrayList;

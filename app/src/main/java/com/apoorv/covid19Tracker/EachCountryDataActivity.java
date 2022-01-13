@@ -33,7 +33,7 @@ import static com.apoorv.covid19Tracker.Constants.STATE_NAME;
 import static com.apoorv.covid19Tracker.Constants.STATE_RECOVERED;
 import static com.apoorv.covid19Tracker.Constants.STATE_RECOVERED_NEW;
 
-import com.codewithshubh.covid19Tracker.R;
+import com.apoorv.covid19Tracker.R;
 
 public class EachCountryDataActivity extends AppCompatActivity {
 

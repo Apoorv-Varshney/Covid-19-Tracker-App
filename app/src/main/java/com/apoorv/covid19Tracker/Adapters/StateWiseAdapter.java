@@ -18,7 +18,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.apoorv.covid19Tracker.EachStateDataActivity;
 import com.apoorv.covid19Tracker.Models.StateWiseModel;
-import com.codewithshubh.covid19Tracker.R;
+import com.apoorv.covid19Tracker.R;
 
 import java.text.NumberFormat;
 import java.util.ArrayList;

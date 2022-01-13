@@ -21,7 +21,7 @@ import com.android.volley.toolbox.JsonObjectRequest;
 import com.android.volley.toolbox.Volley;
 import com.apoorv.covid19Tracker.Adapters.StateWiseAdapter;
 import com.apoorv.covid19Tracker.Models.StateWiseModel;
-import com.codewithshubh.covid19Tracker.R;
+import com.apoorv.covid19Tracker.R;
 
 import org.json.JSONArray;
 import org.json.JSONException;

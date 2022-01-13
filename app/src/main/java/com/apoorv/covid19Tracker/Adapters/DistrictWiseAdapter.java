@@ -27,7 +27,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.apoorv.covid19Tracker.EachDistrictDataActivity;
 import com.apoorv.covid19Tracker.Models.DistrictWiseModel;
-import com.codewithshubh.covid19Tracker.R;
+import com.apoorv.covid19Tracker.R;
 
 
 import java.text.NumberFormat;

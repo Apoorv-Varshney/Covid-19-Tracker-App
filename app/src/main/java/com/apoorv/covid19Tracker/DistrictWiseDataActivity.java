@@ -23,7 +23,7 @@ import com.android.volley.toolbox.JsonArrayRequest;
 import com.android.volley.toolbox.Volley;
 import com.apoorv.covid19Tracker.Adapters.DistrictWiseAdapter;
 import com.apoorv.covid19Tracker.Models.DistrictWiseModel;
-import com.codewithshubh.covid19Tracker.R;
+import com.apoorv.covid19Tracker.R;
 
 import org.json.JSONArray;
 import org.json.JSONException;
